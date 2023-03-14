@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "supreethmanyam.github.io"
+  title: "Supreeth Manyam"
   navbar:
     left:
       - href: index.qmd

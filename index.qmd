@@ -1,5 +1,5 @@
 ---
-title: "supreethmanyam.github.io"
+title: "Supreeth Manyam"
 ---
 
 This is a Quarto website.
