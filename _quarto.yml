@@ -1,21 +1,43 @@
 project:
   type: website
-  output-dir: docs
 
 website:
-  title: "Supreeth Manyam"
+  title: supreeth.dev
+  image: profile.jpg
+  favicon: favicon.ico
   navbar:
+    title: false
+    right:
+      - text: "Blog"
+        href: blog.qmd
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - newpage.qmd
+      - text: "![](favicon.ico){width='14%'} Supreeth Manyam"
+        href: index.qmd
+  page-footer:
+    right:
+      - icon: github
+        href: https://github.com/supreethmanyam
+      - icon: linkedin
+        href: https://www.linkedin.com/in/supreethmanyam/
+      - icon: twitter-x
+        href: https://x.com/supreethmanyam
+      - text: kaggle
+        href: https://www.kaggle.com/supreethmanyam
+    left:
+      - text : "Supreeth Manyam © 2024"
+  open-graph: true
+  twitter-card:
+    creator: "@supreethmanyam"
+    site: "@supreethmanyam"
+    card-style: summary_large_image
+  site-url: "https://supreeth.dev"
+  google-analytics: "G-GF00K10T5G"
+
 
 format:
   html:
-    theme: cosmo
+    reference-location: document
+    theme:
+      light: [cosmo, theme-light.scss]
+      dark: [cosmo, theme-dark.scss]
     css: styles.css
-    toc: true
-
-
-

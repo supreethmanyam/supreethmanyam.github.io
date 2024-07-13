@@ -1,7 +1,46 @@
 ---
-title: "Supreeth Manyam"
+image: profile.jpg
+toc: false
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/supreethmanyam
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/supreethmanyam/
+    - icon: twitter-x
+      href: https://x.com/supreethmanyam
+    - text: kaggle
+      href: https://www.kaggle.com/supreethmanyam
+listing:
+    date-format: short
+    filter-ui: false
+    type: table
+    sort-ui: false
+    sort: "date desc"
+    categories: false
+    fields: [date, title]
+    id: blog-listings
+    contents:
+        - blog
+page-size: 10
 ---
 
-This is a Quarto website.
+:::{#hero-heading}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hello, my name is Supreeth. I am a Data Scientist, researching and developing machine learning products with RozieAI.
+I have over 8 years of experience in the field of Data Science and building scalable ML/AI products is my competence.
+My current focus is building solutions and experimenting with generative AI models.
+
+This website is my canvas where I share everything I learn and experiment with.
+
+:::
+
+### Recent Posts
+:::{#blog-listings}
+:::
