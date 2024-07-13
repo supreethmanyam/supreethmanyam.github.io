@@ -1,1 +1,1 @@
-Sitemap: https://supreethmanyam.github.io/sitemap.xml
+Sitemap: https://supreeth.dev/sitemap.xml
