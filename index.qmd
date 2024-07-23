@@ -23,7 +23,7 @@ about:
 
 Hello, my name is Supreeth.
 
-I am a Data Scientist, researching and developing machine learning products with RozieAI.
+I am a Senior Data Scientist, researching and developing machine learning products with RozieAI.
 
 I have over 7 years of experience in the field of Data Science and building scalable ML/AI products is my competence.
 I am a [Microsoft Certified: Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/supreethmanyam/2B5B1AA5C82CB8DB?sharingId=5905BBEC899E55C1) with professional working experience in Azure and AWS.
