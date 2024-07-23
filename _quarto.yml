@@ -7,9 +7,9 @@ website:
   favicon: favicon.ico
   navbar:
     title: false
-    right:
-      - text: "Blog"
-        href: blog.qmd
+    # right:
+    #   - text: "Blog"
+    #     href: blog.qmd
     left:
       - text: "![](favicon.ico){width='14%'} Supreeth Manyam"
         href: index.qmd

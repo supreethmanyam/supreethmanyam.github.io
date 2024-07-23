@@ -17,18 +17,6 @@ about:
       href: https://x.com/supreethmanyam
     - text: kaggle
       href: https://www.kaggle.com/supreethmanyam
-listing:
-    date-format: short
-    filter-ui: false
-    type: table
-    sort-ui: false
-    sort: "date desc"
-    categories: false
-    fields: [date, title]
-    id: blog-listings
-    contents:
-        - blog
-page-size: 10
 ---
 
 :::{#hero-heading}
@@ -44,8 +32,4 @@ I am currently focusing on learning, experimenting and building Generative AI so
 
 This website is my canvas where I share everything I learn and experiment with.
 
-:::
-
-### Recent Posts
-:::{#blog-listings}
 :::
